@@ -11,6 +11,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
+  "homepage": "https://espinozaosman.github.io/jamming/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
@@ -36,6 +37,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ],
-    "homepage": "https://espinozaosman.github.io/jamming/",
   }
 }
